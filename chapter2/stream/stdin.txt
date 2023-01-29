@@ -1,0 +1,2 @@
+from terminal stream to file writable stream
+ work with file system and stream and pipes
